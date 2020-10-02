@@ -1,4 +1,15 @@
 ![ecommerce](https://user-images.githubusercontent.com/53967697/94903266-2b7bec00-04b7-11eb-970c-17071b628440.gif)
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
